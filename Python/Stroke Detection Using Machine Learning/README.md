@@ -1,0 +1,1 @@
+The application area of the project focuses on the public health and health condition of a patient. The goal is to predict whether the person is likely to get a stroke or not, which is a binary classification task.
